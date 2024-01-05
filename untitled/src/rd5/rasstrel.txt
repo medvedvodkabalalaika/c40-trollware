@@ -1,0 +1,16 @@
+taskmgr.exe
+cmd.exe
+notepad.exe
+regedit.exe
+mmc.exe
+perfmon.exe
+windowsterminal.exe
+systemsettings.exe
+MsMpEng.exe
+avz.exe
+avz4.exe
+eset.exe
+nissrv.exe
+sechealthui.exe
+processhacker.exe
+processhacker2.exe
